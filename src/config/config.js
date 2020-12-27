@@ -76,7 +76,7 @@ const config = [
         ]
     },
       {
-        "url": "https://observatoiredesprairies.myportfolio.com/squatt",
+        "url": "https://observatoiredesprairies.myportfolio.com/z1sb1",
         "mini": "miniZ1SB1.png",
         "name": "Z1SB1",
         "lngLat": [
@@ -116,7 +116,7 @@ const config = [
         ]
     },
     {
-        "url": "https://observatoiredesprairies.myportfolio.com/copie-de-squatt",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j13",
         "mini": "miniZ2J13.png",
         "name": "Z2J13",
         "lngLat": [
