@@ -1,6 +1,6 @@
 const config = [
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z4f1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z4f1",
         "mini": "miniZ4F1-1.png",
         "name": "Z4F1",
         "lngLat": [
@@ -9,7 +9,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z4p1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z4p1",
         "mini": "miniZ4P1.png",
         "name": "Z4P1",
         "lngLat": [
@@ -18,7 +18,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z3p1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z3p1",
         "mini": "miniZ3P1.png",
         "name": "Z3P1",
         "lngLat": [
@@ -27,7 +27,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z4p1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z4p1",
         "mini": "lachute.png",
         "name": "LA CHUTE",
         "lngLat": [
@@ -36,7 +36,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z3u2",
+        "url": "https://observatoiredesprairies.myportfolio.com/z3u2",
         "mini": "miniZ3U2.png",
         "name": "Z3U2",
         "lngLat": [
@@ -44,7 +44,7 @@ const config = [
         ]
     },
       {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z3u1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z3u1",
         "mini": "miniZ3U1.png",
         "name": "Z3U1",
         "lngLat": [
@@ -52,7 +52,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z3p3",
+        "url": "https://observatoiredesprairies.myportfolio.com/z3p3",
         "mini": "miniZ3P3.png",
         "name": "Z3P3",
         "lngLat": [
@@ -60,7 +60,7 @@ const config = [
         ]
     },
       {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z1p2",
+        "url": "https://observatoiredesprairies.myportfolio.com/z1p2",
         "mini": "miniZ1P2.png",
         "name": "Z1P2",
         "lngLat": [
@@ -68,7 +68,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z1p3",
+        "url": "https://observatoiredesprairies.myportfolio.com/z1p3",
         "mini": "miniZ1P3.png",
         "name": "Z1P3",
         "lngLat": [
@@ -76,7 +76,7 @@ const config = [
         ]
     },
       {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/squatt",
+        "url": "https://observatoiredesprairies.myportfolio.com/squatt",
         "mini": "miniZ1SB1.png",
         "name": "Z1SB1",
         "lngLat": [
@@ -84,7 +84,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j9",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j9",
         "mini": "miniZ2J9.png",
         "name": "Z2J9",
         "lngLat": [
@@ -92,7 +92,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/la-scene",
+        "url": "https://observatoiredesprairies.myportfolio.com/la-scene",
         "mini": "lascene.png",
         "name": "LA/SCÈNE",
         "lngLat": [
@@ -100,7 +100,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j14",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j14",
         "mini": "miniZ2J14.png",
         "name": "Z2J14",
         "lngLat": [
@@ -108,7 +108,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j3",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j3",
         "mini": "miniZ2J3.png",
         "name": "Z2J3",
         "lngLat": [
@@ -116,7 +116,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/copie-de-squatt",
+        "url": "https://observatoiredesprairies.myportfolio.com/copie-de-squatt",
         "mini": "miniZ2J13.png",
         "name": "Z2J13",
         "lngLat": [
@@ -124,7 +124,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j11",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j11",
         "mini": "miniZ2J11.png",
         "name": "Z2J11",
         "lngLat": [
@@ -132,7 +132,7 @@ const config = [
         ]
     },
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j4",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j4",
         "mini": "miniZ2J4.png",
         "name": "Z2J4",
         "lngLat": [
@@ -140,7 +140,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j7",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j7",
         "mini": "miniZ2J7.png",
         "name": "Z2J7",
         "lngLat": [
@@ -148,7 +148,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j11",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j11",
         "mini": "miniZ2J11.png",
         "name": "Z2J11",
         "lngLat": [
@@ -156,7 +156,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2u2",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2u2",
         "mini": "miniZ2U2.png",
         "name": "Z2U2",
         "lngLat": [
@@ -164,7 +164,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2u1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2u1",
         "mini": "miniZ2U1.png",
         "name": "Z2U1",
         "lngLat": [
@@ -172,7 +172,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j11",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j11",
         "mini": "miniZ2J11.png",
         "name": "Z2J11",
         "lngLat": [
@@ -180,7 +180,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2sb5",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2sb5",
         "mini": "miniZ2SB5.png",
         "name": "Z2SB5",
         "lngLat": [
@@ -188,7 +188,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2j12",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j12",
         "mini": "miniZ2J12.png",
         "name": "Z2J12",
         "lngLat": [
@@ -196,7 +196,7 @@ const config = [
         ]
     }, 
     {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2p1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2p1",
         "mini": "miniZ2P1.png",
         "name": "Z2P1",
         "lngLat": [
@@ -204,7 +204,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2sb1",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2sb1",
         "mini": "miniZ2SB1.png",
         "name": "Z2SB1",
         "lngLat": [
@@ -212,7 +212,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/rite",
+        "url": "https://observatoiredesprairies.myportfolio.com/rite",
         "mini": "lerite.png",
         "name": "LE/RITE",
         "lngLat": [
@@ -220,7 +220,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/z2sb2",
+        "url": "https://observatoiredesprairies.myportfolio.com/z2sb2",
         "mini": "miniZ2SB2.png",
         "name": "Z2SB2",
         "lngLat": [
@@ -228,7 +228,7 @@ const config = [
         ]
     },
      {
-        "url": "https://lobservatoiredesprairies.myportfolio.com/faune",
+        "url": "https://observatoiredesprairies.myportfolio.com/faune",
         "mini": "faune.png",
         "name": "FAUNE",
         "lngLat": [
