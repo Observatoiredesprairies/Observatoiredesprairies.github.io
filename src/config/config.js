@@ -139,6 +139,14 @@ const config = [
         -1.6720833333333331, 48.1235278
         ]
     }, 
+     {
+        "url": "https://observatoiredesprairies.myportfolio.com/z2j5",
+        "mini": "miniZ2J5.png",
+        "name": "Z2J5",
+        "lngLat": [
+        -1.6718666666666666, 48.1239528
+        ]
+    }, 
     {
         "url": "https://observatoiredesprairies.myportfolio.com/z2j7",
         "mini": "miniZ2J7.png",
