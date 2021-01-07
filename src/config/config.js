@@ -27,7 +27,7 @@ const config = [
         ]
     },
      {
-        "url": "https://observatoiredesprairies.myportfolio.com/z4p1",
+        "url": "https://observatoiredesprairies.myportfolio.com/chutew",
         "mini": "lachute.png",
         "name": "LA CHUTE",
         "lngLat": [
