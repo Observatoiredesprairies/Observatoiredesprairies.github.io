@@ -256,7 +256,7 @@ const config = [
         "mini": "minisentinelles.png",
         "name": "SENTINELLES",
         "lngLat": [
-        -1.676761111111111, 48.1209639
+        -1.6770388888888887, 48.1212417
         ]
     },
 
