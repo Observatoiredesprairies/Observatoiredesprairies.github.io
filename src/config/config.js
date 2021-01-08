@@ -220,8 +220,8 @@ const config = [
         ]
     },
      {
-        "url": "https://observatoiredesprairies.myportfolio.com/sentinelles",
-        "mini": "minisentinelles.png",
+        "url": "https://observatoiredesprairies.myportfolio.com/le-souffle",
+        "mini": "minisouffle.png",
         "name": "LE/RITE",
         "lngLat": [
         -1.6768666666666665, 48.121925
@@ -241,6 +241,22 @@ const config = [
         "name": "FAUNE",
         "lngLat": [
         -1.6714666666666664, 48.1251111
+        ]
+    },
+      {
+        "url": "https://observatoiredesprairies.myportfolio.com/nomades",
+        "mini": "mininomades.png",
+        "name": "NOMADES",
+        "lngLat": [
+        -1.6735972222222222, 48.1241694
+        ]
+    },
+       {
+        "url": "https://observatoiredesprairies.myportfolio.com/sentinelles",
+        "mini": "minisentinelles.png",
+        "name": "SENTINELLES",
+        "lngLat": [
+        -1.676761111111111, 48.1209639
         ]
     },
 
