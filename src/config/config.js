@@ -220,8 +220,8 @@ const config = [
         ]
     },
      {
-        "url": "https://observatoiredesprairies.myportfolio.com/rite",
-        "mini": "lerite.png",
+        "url": "https://observatoiredesprairies.myportfolio.com/sentinelles",
+        "mini": "minisentinelles.png",
         "name": "LE/RITE",
         "lngLat": [
         -1.6768666666666665, 48.121925
